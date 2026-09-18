@@ -1,3 +1,0 @@
-const CONFIG = {
-    GROQ_API_KEY: "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"
-};
